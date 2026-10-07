@@ -1,0 +1,26 @@
+[
+    {
+        "barang": "Beras",
+        "stok": "20"
+    },
+    {
+        "barang": "Gula",
+        "stok": "20"
+    },
+    {
+        "barang": "Minyak Goreng",
+        "stok": "15"
+    },
+    {
+        "barang": "Susu Ultramilk Coklat",
+        "stok": "10"
+    },
+    {
+        "barang": "Susu Ultaramil Caramel ",
+        "stok": "20"
+    },
+    {
+        "barang": "Chitato ",
+        "stok": "15"
+    }
+]
